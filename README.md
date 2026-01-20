@@ -118,3 +118,15 @@ http://127.0.0.1:8000
 
 Atau untuk dokumentasi API:
 http://127.0.0.1:8000/docs
+
+Output Prediksi (Hasil Akhir Sistem)
+Contoh Output JSON:
+{
+  "prediction": "Pelanggan Puas"
+}
+
+atau
+
+{
+  "prediction": "Pelanggan Tidak Puas"
+}
